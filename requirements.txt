@@ -1,0 +1,7 @@
+# Packages installed in .venv for entropy_eeg_analysis.py
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+openpyxl
